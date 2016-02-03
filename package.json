@@ -1,0 +1,14 @@
+{
+  "name": "node-js-getting-started-api",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "hapi": "^12.0.0",
+    "hapi-swagger": "^4.0.0"
+  }
+}

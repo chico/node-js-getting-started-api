@@ -16,7 +16,7 @@ Your app should now be running on [localhost:8080](http://localhost:8080/).
 
 ### Swagger
 
-* URL: [http://localhost:8080/swagger.json](http://localhost:8080/swagger.json)
+* URL: [http://localhost:8080/api/1.0/swagger](http://localhost:8080/api/1.0/swagger)
 
 The Swagger UI is outside the scope of this project but can easily be added:
  * See [https://github.com/glennjones/hapi-swagger#viewing-the-documentation-page](https://github.com/glennjones/hapi-swagger#viewing-the-documentation-page)
